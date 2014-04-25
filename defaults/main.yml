@@ -2,4 +2,4 @@
 
 perl_cpanm_version: "1.7102"              # The CPAN release version
 perl_cpanm_path: "/usr/local/bin/cpanm"   # The CPAN script location
-perl_cpanm_url: "https://raw.github.com/miyagawa/cpanminus/{{perl_cpanm_version}}/cpanm/"
+perl_cpanm_url: "https://raw.github.com/miyagawa/cpanminus/{{perl_cpanm_version}}/cpanm"
