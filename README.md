@@ -1,4 +1,4 @@
-## Ansibles - perl [![Build Status](https://travis-ci.org/Ansibles/perl.png)](https://travis-ci.org/Ansibles/perl)
+## ANXS - perl [![Build Status](https://travis-ci.org/ANXS/perl.png)](https://travis-ci.org/ANXS/perl)
 
 Ansible role which manages Perl installation and provides cpan_module, to install modules from CPAN.
 
@@ -22,4 +22,4 @@ Licensed under the MIT License. See the LICENSE file for details.
 
 #### Feedback, bug-reports, requests, ...
 
-Are [welcome](https://github.com/ansibles/perl/issues)!
+Are [welcome](https://github.com/ANXS/perl/issues)!
