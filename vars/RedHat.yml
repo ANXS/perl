@@ -1,0 +1,5 @@
+# file: perl/vars/Redhat.yml
+
+perl_packages:
+  - perl
+  - perl-devel
