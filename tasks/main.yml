@@ -7,7 +7,7 @@
   apt:
     pkg: "{{item}}"
     state: present
-  with_items: perl_packages
+  with_items: "{{ perl_packages }}"
   when: ansible_os_family == "Debian"
 
 - name: Perl | CPAN | Get the cpan script
